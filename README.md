@@ -16,6 +16,7 @@ obtenemos sus datos de latitud y longitud
 Ejemplo
 
 ======================= GET ======================================
+
  http://www.open-electronics.org/celltrack/celltxt.php?
  hex=0&mcc=222&mnc=10&lac=00010012&cid=00039309
  &lac0=00010012&cid0=00005188
